@@ -103,5 +103,9 @@
     "$": "dollar",
     "<": "mindre end",
     ">": "større end"
+  },
+  "sv": {
+    "locale": "Swedish",
+    "&": "och"
   }
 }
